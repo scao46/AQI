@@ -1,8 +1,8 @@
-"city","Population.million.","Gross.Domestic.Product.billion.Yuan.","Real.Estate.Yuan.per.square.meter.","salary.Yuan.","Number.of.hospitals"
-"Beijing",21.705,2301.459,22300,113073,701
-"Shanghai",24.1527,2512.345,21501,109279,644
-"Guangzhou",13.5011,1810.041,14083,81171,259
-"Chengdu",14.428,1080.116,6584,69123,768
-"Harbin",10.6515,575.121,6124,58405,462
-"Xian",8.7056,580.12,6221,63193,395
-"Urumqi",3.55,263.164,6142,67617,175
+city,Population(million),Gross Domestic Product(billion Yuan),Real Estate Yuan(per square meter),salary(Yuan),Number of hospitals
+Beijing,21.705,2301.459,22300,113073,701
+Shanghai,24.1527,2512.345,21501,109279,644
+Guangzhou,13.5011,1810.041,14083,81171,259
+Chengdu,14.428,1080.116,6584,69123,768
+Harbin,10.6515,575.121,6124,58405,462
+Xian,8.7056,580.12,6221,63193,395
+Urumqi,3.55,263.164,6142,67617,175
