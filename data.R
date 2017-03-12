@@ -59,8 +59,12 @@ salary = c(113073, 109279, 81171, 69123, 58405, 63193, 67617)
 GDP = c(2301.459, 2512.345, 1810.041, 1080.116, 575.121, 580.120, 263.164)
 Hospital = c(701, 644, 259, 768, 462, 395, 175)
 RealEstate = c(22300, 21501, 14083, 6584, 6124, 6221, 6142)
-moreData = data.frame(city = city, population = population, salary = salary, 
-                      GDP = GDP, Hospital = Hospital, RealEstate = RealEstate)
+moreData = data.frame(city = city, 
+                      "Population(million)" = population, 
+                      "Gross Domestic Product(billion Yuan)" = GDP, 
+                      "Real Estate(Yuan per square meter)" = RealEstate, 
+                      "salary(Yuan)" = salary, 
+                      "Number of hospitals" = Hospital)
 write.csv(moreData, file = "./new/city/moreData.csv", row.names = F)
 
 
