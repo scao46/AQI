@@ -1,4 +1,4 @@
-city,Population(million),Gross Domestic Product(billion Yuan),Real Estate(Yuan per square meter),salary(Yuan),Number of hospitals
+city,Population(million),Gross Domestic Product(billion Yuan),House price(Yuan per square meter),salary(Yuan),Number of hospitals
 Beijing,21.705,2301.459,22300,113073,701
 Shanghai,24.1527,2512.345,21501,109279,644
 Guangzhou,13.5011,1810.041,14083,81171,259
